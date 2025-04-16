@@ -54,5 +54,6 @@
 ###
 
 <br clear="both">
-
-<img align="right" height="200" src="./assets/doomguy.gif"  />
+<div align="center">
+  <img align="center" height="150" src="./assets/doomguy.gif"  />
+</div>
