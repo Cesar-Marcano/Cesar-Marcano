@@ -56,9 +56,3 @@
 <br clear="both">
 
 <img align="right" height="200" src="./assets/doomguy.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/Cesar-Marcano/Cesar-Marcano/output/snake.svg" alt="Snake animation" />
-
-###
