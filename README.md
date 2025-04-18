@@ -54,10 +54,3 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
 </div>
-
-###
-
-<br clear="both">
-<div align="center">
-  <img align="center" height="150" src="./assets/doomguy.gif"  />
-</div>
